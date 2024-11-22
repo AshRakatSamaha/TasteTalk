@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046813135334",
+    "project_id": "taste-talk",
+    "storage_bucket": "taste-talk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046813135334:android:5ea2bc6d3aa74412b28627",
+        "android_client_info": {
+          "package_name": "com.ashrakat.tastetalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJOW9dOSHObChoJ04dECM_T-uf5eD3ouk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taste Talk</string>
+    <string name="welcome">Welcome to Taste Talk!</string>
+    <string name="startExploring">Feel free to ask! we\'re here to help you with</string>
+    <string name="all">all your queries.</string>
+    <string name="starredMessage">Starred Message</string>
+</resources>
